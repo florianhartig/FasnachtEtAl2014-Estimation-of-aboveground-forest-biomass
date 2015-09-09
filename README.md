@@ -1,6 +1,3 @@
-biomass
-=======
-
 R-Codes for the manuscript 
 
 Fassnacht, F.; Hartig, F.; Latifi, H.; Berger, C.; Hernández, J.; Corvalán, P. & Koch, B. (2014) Importance of sample size, data type and prediction method for remote sensing-based estimations of aboveground forest biomass. Remote Sensing of Environment, 154, 102 - 114.
